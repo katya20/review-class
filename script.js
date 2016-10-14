@@ -1,7 +1,7 @@
 console.log("What now?")
 
-$("pusheen").keydown(console.log("hi"))
+$("pusheen").keydown(doSomething)
 
-//function doSomething() {
-//  console.log("clicked")
-//}
+function doSomething() {
+  console.log("clicked")
+}
