@@ -1,8 +1,9 @@
+$(".bubble").style.visibility='hidden';
 console.log("What now?")
 
 $("#pusheen").click(doSomething)
 
 function doSomething() {
   console.log("clicked");
-  $(".bubble").appear;
+  $(".bubble").style.visibility='visible' ;
 }
