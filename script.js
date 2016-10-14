@@ -1,4 +1,4 @@
-var hello = ["Hello there!", "Nice 
+var hello = ["Hello there!", "Nice to meet you!", "Hi", "I love you <3", "
 
 $(".bubble").hide();
 console.log("What now?")
