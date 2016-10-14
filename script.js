@@ -1,6 +1,6 @@
 console.log("What now?")
 
-$("pusheen").onclick(doSomething)
+$("pusheen").mousedown(doSomething)
 
 function doSomething() {
   console.log("clicked")
