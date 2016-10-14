@@ -1,7 +1,7 @@
-var hello = ["Hello there!", "Nice to meet you!", "Hi", "I love you <3", "
+var hello = ["Hello there!", "Nice to meet you!", "Hi", "I love you <3", "I am awesome!", "Click me!"]
 
 $(".bubble").hide();
-console.log("What now?")
+console.log(hello)
 
 $("#pusheen").click(doSomething)
 
