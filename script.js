@@ -1,6 +1,6 @@
 console.log("What now?")
 
-$("pusheen").keydown(doSomething)
+$("#pusheen").click(doSomething)
 
 function doSomething() {
   console.log("clicked")
