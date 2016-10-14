@@ -5,7 +5,7 @@ $(".bubble").hide();
 $("#pusheen").click(doSomething)
 
 function doSomething() {
-  $(".bubble").append(" ")
+  $(".bubble").html("");
   console.log("clicked");
   $(".bubble").show();
   $(".bubble").append(hello[Math.floor(Math.random() * 5)])
