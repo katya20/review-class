@@ -1,6 +1,6 @@
 console.log("What now?")
 
-$("pusheen").mouseenter(console.log("hi"))
+$("pusheen").keydown(console.log("hi"))
 
 //function doSomething() {
 //  console.log("clicked")
