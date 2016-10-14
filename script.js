@@ -4,5 +4,5 @@ $("#pusheen").click(doSomething)
 
 function doSomething() {
   console.log("clicked");
-  $("#pusheen").rotate(45);
+  $(".bubble").appear;
 }
