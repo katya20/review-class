@@ -1,3 +1,5 @@
+var hello = ["Hello there!", "Nice 
+
 $(".bubble").hide();
 console.log("What now?")
 
