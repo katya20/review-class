@@ -3,7 +3,8 @@
 }
 
 #pusheen {
-  object-position: center;
+  margin-left: inherit;
+  margin-right: inherit;
 }
 
 .bubble{
