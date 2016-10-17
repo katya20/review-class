@@ -1,4 +1,4 @@
-var hello = ["Hello there!", "Nice to meet you!", "Hi", "I love you <3", "I am awesome!", "Click me!"]
+var hello = ["Hello there!", "Nice to meet you!", "Hi", "I love you <3", "I am awesome!", "Click me!", "Why you cry?", "Don't worry, be happy :)", ]
 
 $(".bubble").hide();
 
